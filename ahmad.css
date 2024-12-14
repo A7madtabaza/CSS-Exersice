@@ -1,0 +1,22 @@
+
+
+
+div.one{
+    background-color: azure; 
+display:block;
+position: sticky;
+top: 0;
+padding: 5px;
+background-color: #ddf4dd;
+border: 2px solid #000000;
+
+}
+div.two{
+    
+    background-color: aliceblue;
+    border: solid;
+    padding-bottom:2000px
+
+
+
+}

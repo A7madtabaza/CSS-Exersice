@@ -9,13 +9,14 @@ top: 0;
 padding: 5px;
 background-color: #ddf4dd;
 border: 2px solid #000000;
-
+overflow-y: scroll;
 }
 div.two{
-    
-    background-color: aliceblue;
-    border: solid;
-    padding-bottom:2000px
+    width: 30%;
+    height: 100px;
+    display: inline-block;
+    overflow: hidden;
+    background-color: rgb(178, 178, 178);
 
 
 

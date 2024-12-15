@@ -1,0 +1,23 @@
+p>u{
+    color: blue;
+}
+a{
+    color: yellow;
+}
+li>a{
+color: red;
+
+}
+dd>a{
+
+    color: red;
+}
+li{
+    color: blue;
+}
+b{
+    color: black;
+}
+ul div{
+    color: black;
+}
